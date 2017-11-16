@@ -71,6 +71,8 @@ namespace ElevenRose.Services
 
                                     Title = e.Title,
 
+                                    IsStarred = e.IsStarred,
+
                                     CreatedUtc = e.CreatedUtc,
 
                                     ModifiedUtc = e.ModifiedUtc
